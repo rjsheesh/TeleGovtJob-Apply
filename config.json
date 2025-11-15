@@ -1,0 +1,58 @@
+{
+  "basic_info": {
+    "name": "MD. ***** ULLAH SHARDAR",
+    "name_bn": "মোঃ ***** উল্লাহ সরদার",
+    "father": " MD. ***** BADSHAH",
+    "father_bn": "মোঃ ***** বাদশাহ",
+    "mother": "***** BEGUM",
+    "mother_bn": "***** বেগম",
+    "dob": "20-10-19**",
+    "religion": "ISLAM",
+    "gender": "Male",
+    "nid_no": "19972921004****36",
+    "breg_no": "",
+    "mobile": "0184940**40",
+    "email": "bu.*****@gmail.com"
+  },
+  "address": {
+    "present_careof": " MD. ***** BADSHAH",
+    "present_village": "Bhanga Town, Bhanga - 7830, Faridpur",
+    "present_district": "Faridpur",
+    "present_upazila": "Bhanga",
+    "present_post": "Bhanga",
+    "present_postcode": "7830",
+    "permanent_careof": " MD. ***** BADSHAH",
+    "permanent_village": "Bhanga Town, Bhanga - 7830, Faridpur",
+    "permanent_district": "Faridpur",
+    "permanent_upazila": "Bhanga",
+    "permanent_post": "Bhanga",
+    "permanent_postcode": "7830"
+  },
+  "ssc": {
+    "exam": "S.S.C Vocaional",
+    "roll": "3803**",
+    "group": "General Mechanics",
+    "board": "BTEB",
+    "result_type": "GPA",
+    "result": "4.**",
+    "year": "2014"
+  },
+  "hsc": {
+    "exam": "Diploma-in-Engineering",
+    "roll": "2431**",
+    "group": "Computer Science Engineering",
+    "board": "BTEB",
+    "result_type": "GPA",
+    "result": "3.4*",
+    "year": "2022"
+  },
+  "graduation": {
+    "exam": "B.Sc Engineering",
+    "institute": "UAB",
+    "year": "2025",
+    "subject": "Computer Science Engineering",
+    "result_type": "GPA",
+    "result": "3.**",
+    "duration": "04"
+  }
+}
